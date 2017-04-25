@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ExamenLp3-II</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="act_ingresar">Ingresar</string>
+    <string name="act_registrar">Registrar</string>
+    <string name="act_User">Usuario:</string>
+    <string name="act_password">password:</string>
+    <string name="act_name">Nombre:</string>
+    <string name="act_lasname">Apellido:</string>
+    <string name="act_guard">Guardar</string>
+    <string name="act_cancel">Canclear</string>
+
+
+
+
+    <string name="act_alias">alias</string>
+    <string name="act_numPhone">numero de celular</string>
+    <string name="act_email">Email</string>
+    <string name="act_favorite">favorite</string>
+    <string name="act_address">address</string>
+    <string name="act_sex">sex</string>
+    <string name="act_score">score</string>
+    <string name="act_photo">foto</string>
+    <string name="act_status">estado</string>
+
+    <string name="status_act">activo</string>
+    <string name="status_inact">inactivo</string>
+
+    <string name="message_score">your score</string>
+
+
+    <string name="btn_msg_save">guardar</string>
+    <string name="btn_msg_add">ingresar</string>
+
+
+
+    <string name="action_about">hacerca de</string>
+
+    <string name="title_TabActivity_main">Tab</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="title_activity_registro_person">RegistroPerson</string>
+
+</resources>
