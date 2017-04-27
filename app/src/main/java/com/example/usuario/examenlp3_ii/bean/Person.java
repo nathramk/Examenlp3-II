@@ -19,6 +19,10 @@ public class Person {
     private String status;
     private Integer photo;
 
+    public Person() {
+
+    }
+
 
     @Override
     public String toString() {

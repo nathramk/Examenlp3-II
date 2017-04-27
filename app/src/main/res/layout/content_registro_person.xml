@@ -34,7 +34,7 @@
                     >
 
                     <EditText
-                        android:id="@+id/txtLastNameM"
+                        android:id="@+id/txtAlias"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:ems="10"
@@ -83,7 +83,7 @@
                     >
 
                     <EditText
-                        android:id="@+id/txtLastNameF"
+                        android:id="@+id/txtLastName"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:ems="10"
@@ -280,7 +280,7 @@
                     <RatingBar
                         android:id="@+id/ratingBarScore"
                         android:layout_width="wrap_content"
-                        android:layout_height="18dp"
+                        android:layout_height="wrap_content"
                         android:layout_alignParentStart="true"
                         android:numStars="5"
                         android:layout_marginStart="34dp" />

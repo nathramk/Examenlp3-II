@@ -1,5 +1,6 @@
 package com.example.usuario.examenlp3_ii;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.app.AppCompatActivity;
 
@@ -81,6 +82,8 @@ public class TabActivityMain extends AppCompatActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_about) {
+            Intent i=new Intent(this, About.class);
+            startActivity(i);
             return true;
         }
 

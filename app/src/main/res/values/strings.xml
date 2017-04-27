@@ -12,8 +12,6 @@
     <string name="act_cancel">Canclear</string>
 
 
-
-
     <string name="act_alias">alias</string>
     <string name="act_numPhone">numero de celular</string>
     <string name="act_email">Email</string>
@@ -28,17 +26,24 @@
     <string name="status_inact">inactivo</string>
 
     <string name="message_score">your score</string>
+    <string name="action_back">atras</string>
 
 
     <string name="btn_msg_save">guardar</string>
     <string name="btn_msg_add">ingresar</string>
 
 
-
     <string name="action_about">hacerca de</string>
+
+
+    <string name="beta">Version Beta</string>
+    <string name="Examenlp">Examen LP3</string>
+    <string name="UPeU">Universidad Peruana Union</string>
+    <string name="Kenyi">Kenyi Lopez Azaña</string>
 
     <string name="title_TabActivity_main">Tab</string>
     <string name="title_activity_registro">Registro</string>
     <string name="title_activity_registro_person">RegistroPerson</string>
+    <string name="title_activity_about">Acerca de</string>
 
 </resources>

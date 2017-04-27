@@ -41,14 +41,18 @@ public class Contacts extends Fragment{
         listView.setAdapter(adapter);
         Button btnIngresar = (Button) view.findViewById(R.id.btnIngresar);
 
-
+        btnIngresar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(getActivity(), RegistroPerson.class);
+                i.putExtra("personId",0);
+                startActivity(i);
+            }
+        });
 
         return view;
 
     }
 
-    public void goRegistro(View view){
-        Intent i = new Intent(getActivity(), RegistroPerson.class);
-        startActivity(i);
-    }
+
 }
